@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">    
+        <title>我是标题</title>
+    </head>
+    <body>
+        在这里编辑你的主页面内容
+    </body>
+<html>
